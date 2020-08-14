@@ -1,0 +1,8 @@
+C:/Users/dnetto/new_directory/Lab-DataCleaning/data/users.csv
+
+
+users=pd.read_csv('C:/Users/dnetto/new_directory/Lab-DataCleaning/data/users.csv', encoding=None)
+
+file = open('C:/Users/dnetto/new_directory/Lab-DataCleaning/data/users.csv', 'r', encoding='utf8')
+fileread=file.read()
+fileread
