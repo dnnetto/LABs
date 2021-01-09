@@ -1,0 +1,595 @@
+description	qty_gr	kcal	category
+"Arroz, integral, cozido"	100	123	Cereais e derivados
+"Arroz, integral, cru"	100	359	Cereais e derivados
+"Arroz, cozido"	100	128	Cereais e derivados
+"Arroz, cru"	100	357	Cereais e derivados
+"Aveia, flocos, crua"	100	393	Cereais e derivados
+"Biscoito, doce, maisena"	100	442	Cereais e derivados
+"Biscoito, doce, recheado com chocolate"	100	471	Cereais e derivados
+"Biscoito, doce, recheado com morango"	100	471	Cereais e derivados
+"Biscoito, doce, wafer, recheado de chocolate"	100	502	Cereais e derivados
+"Biscoito, doce, wafer, recheado de morango"	100	513	Cereais e derivados
+"Biscoito, salgado, cream cracker"	100	431	Cereais e derivados
+"Bolo, mistura para"	100	418	Cereais e derivados
+"Bolo, pronto, aipim"	100	323	Cereais e derivados
+"Bolo, pronto, chocolate"	100	410	Cereais e derivados
+"Bolo, pronto, coco"	100	333	Cereais e derivados
+"Bolo, pronto, milho"	100	311	Cereais e derivados
+"Canjica, branca, crua"	100	357	Cereais e derivados
+"Canjica, com leite integral"	100	112	Cereais e derivados
+"Cereais, milho, flocos, com sal"	100	369	Cereais e derivados
+"Cereais, milho, flocos, sem sal"	100	363	Cereais e derivados
+"Cereais, mingau, milho, infantil"	100	394	Cereais e derivados
+"Cereais, mistura para vitamina, trigo, cevada e aveia"	100	381	Cereais e derivados
+"Cereal matinal, milho"	100	365	Cereais e derivados
+"Cereal matinal, milho, acucar"	100	376	Cereais e derivados
+"Creme de arroz, pao"	100	386	Cereais e derivados
+"Creme de milho, pao"	100	333	Cereais e derivados
+"Curau, milho verde"	100	78	Cereais e derivados
+"Curau, milho verde, mistura para"	100	402	Cereais e derivados
+"Farinha, de arroz, enriquecida"	100	363	Cereais e derivados
+"Farinha, de centeio, integral"	100	335	Cereais e derivados
+"Farinha, de milho, amarela"	100	350	Cereais e derivados
+"Farinha, de rosca"	100	370	Cereais e derivados
+"Farinha, de trigo"	100	360	Cereais e derivados
+"Farinha, lactea, de cereais"	100	414	Cereais e derivados
+"Lasanha, massa fresca, cozida"	100	163	Cereais e derivados
+"Lasanha, massa fresca, crua"	100	220	Cereais e derivados
+"Macarrao, instantaneo"	100	435	Cereais e derivados
+"Macarao, trigo, cru"	100	371	Cereais e derivados
+"Macarrao, trigo, cru, com ovos"	100	370	Cereais e derivados
+"Milho, amido, cru"	100	361	Cereais e derivados
+"Milho, fuba, cru"	100	353	Cereais e derivados
+"Milho, verde, cru"	100	138	Cereais e derivados
+"Milho, verde, enlatado, drenado"	100	97	Cereais e derivados
+"Mingau tradicional, pao"	100	373	Cereais e derivados
+"Pamonha, barra para cozimento, pre-cozida"	100	171	Cereais e derivados
+"Pao, aveia, forma"	100	343	Cereais e derivados
+"Pao, de soja"	100	308	Cereais e derivados
+"Pao, gluten, forma"	100	252	Cereais e derivados
+"Pao, milho, forma"	100	292	Cereais e derivados
+"Pao, trigo, forma, integral"	100	253	Cereais e derivados
+"Pao, trigo, frances"	100	299	Cereais e derivados
+"Pao, trigo, sovado"	100	310	Cereais e derivados
+"Pastel, de carne, cru"	100	288	Cereais e derivados
+"Pastel, de carne, frito"	100	388	Cereais e derivados
+"Pastel, de queijo, cru"	100	308	Cereais e derivados
+"Pastel, de queijo, frito"	100	422	Cereais e derivados
+"Pastel, massa, crua"	100	310	Cereais e derivados
+"Pastel, massa, frita"	100	569	Cereais e derivados
+"Pipoca, com oleo de soja, sem sal"	100	448	Cereais e derivados
+"Polenta, pre-cozida"	100	102	Cereais e derivados
+"Torrada, pao frances"	100	377	Cereais e derivados
+"Abobora, cabotian, cozida"	100	48	"Verduras, hortalicas e derivados"
+"Abobora, cabotian, crua"	100	38	"Verduras, hortalicas e derivados"
+"Abobora, menina brasileira, crua"	100	13	"Verduras, hortalicas e derivados"
+"Abobora, moranga, crua"	100	12	"Verduras, hortalicas e derivados"
+"Abobora, moranga, refogada"	100	29	"Verduras, hortalicas e derivados"
+"Abobora, pescocao, crua"	100	24	"Verduras, hortalicas e derivados"
+"Abobrinha, italiana, cozida"	100	15	"Verduras, hortalicas e derivados"
+"Abobrinha, italiana, crua"	100	19	"Verduras, hortalicas e derivados"
+"Abobrinha, italiana, refogada"	100	24	"Verduras, hortalicas e derivados"
+"Abobrinha, paulista, crua"	100	30	"Verduras, hortalicas e derivados"
+"Acelga, crua"	100	20	"Verduras, hortalicas e derivados"
+"Agriao, cru"	100	16	"Verduras, hortalicas e derivados"
+"Aipo, cru"	100	19	"Verduras, hortalicas e derivados"
+"Alface, americana, crua"	100	8	"Verduras, hortalicas e derivados"
+"Alface, crespa, crua"	100	10	"Verduras, hortalicas e derivados"
+"Alface, lisa, crua"	100	13	"Verduras, hortalicas e derivados"
+"Alface, roxa, crua"	100	12	"Verduras, hortalicas e derivados"
+"Alfava, crua"	100	29	"Verduras, hortalicas e derivados"
+"Alho, cru"	100	113	"Verduras, hortalicas e derivados"
+"Alho-poro, cru"	100	31	"Verduras, hortalicas e derivados"
+"Almeirao, cru"	100	18	"Verduras, hortalicas e derivados"
+"Almeirao, refogado"	100	65	"Verduras, hortalicas e derivados"
+"Batata, baroa, cozida"	100	80	"Verduras, hortalicas e derivados"
+"Batata, baroa, crua"	100	100	"Verduras, hortalicas e derivados"
+"Batata, doce, cozida"	100	76	"Verduras, hortalicas e derivados"
+"Batata, doce, crua"	100	118	"Verduras, hortalicas e derivados"
+"Batata, frita, tipo chips, industrializada"	100	542	"Verduras, hortalicas e derivados"
+"Batata, inglesa, cozida"	100	51	"Verduras, hortalicas e derivados"
+"Batata, inglesa, crua"	100	64	"Verduras, hortalicas e derivados"
+"Batata, inglesa, frita"	100	267	"Verduras, hortalicas e derivados"
+"Batata, inglesa, saute"	100	67	"Verduras, hortalicas e derivados"
+"Berinjela, cozida"	100	18	"Verduras, hortalicas e derivados"
+"Berinjela, crua"	100	19	"Verduras, hortalicas e derivados"
+"Beterraba, cozida"	100	32	"Verduras, hortalicas e derivados"
+"Beterraba, crua"	100	48	"Verduras, hortalicas e derivados"
+"Biscoito, polvilho doce"	100	437	"Verduras, hortalicas e derivados"
+"Brocolis, cozido"	100	24	"Verduras, hortalicas e derivados"
+"Brocolis, cru"	100	25	"Verduras, hortalicas e derivados"
+"Cara, cozido"	100	77	"Verduras, hortalicas e derivados"
+"Cara, cru"	100	95	"Verduras, hortalicas e derivados"
+"Caruru, cru"	100	34	"Verduras, hortalicas e derivados"
+"Catalonha, crua"	100	23	"Verduras, hortalicas e derivados"
+"Catalonha, refogada"	100	63	"Verduras, hortalicas e derivados"
+"Cebola, crua"	100	39	"Verduras, hortalicas e derivados"
+"Cebolinha, crua"	100	19	"Verduras, hortalicas e derivados"
+"Cenoura, cozida"	100	29	"Verduras, hortalicas e derivados"
+"Cenoura, crua"	100	34	"Verduras, hortalicas e derivados"
+"Chicoria, crua"	100	13	"Verduras, hortalicas e derivados"
+"Chuchu, cozido"	100	18	"Verduras, hortalicas e derivados"
+"Chuchu, cru"	100	16	"Verduras, hortalicas e derivados"
+"Coentro, folhas desidratadas"	100	309	"Verduras, hortalicas e derivados"
+"Couve, manteiga, crua"	100	27	"Verduras, hortalicas e derivados"
+"Couve, manteiga, refogada"	100	90	"Verduras, hortalicas e derivados"
+"Couve-flor, crua"	100	22	"Verduras, hortalicas e derivados"
+"Couve-flor, cozida"	100	19	"Verduras, hortalicas e derivados"
+"Espinafre, Nova Zelandia, cru"	100	16	"Verduras, hortalicas e derivados"
+"Espinafre, Nova Zelandia, refogado"	100	67	"Verduras, hortalicas e derivados"
+"Farinha, de mandioca, crua"	100	360	"Verduras, hortalicas e derivados"
+"Farinha, de mandioca, torrada"	100	365	"Verduras, hortalicas e derivados"
+"Farinha, de puba"	100	360	"Verduras, hortalicas e derivados"
+"Fecula, de mandioca"	100	330	"Verduras, hortalicas e derivados"
+"Feijao, broto, cru"	100	38	"Verduras, hortalicas e derivados"
+"Inhame, cru"	100	96	"Verduras, hortalicas e derivados"
+"Jilo, cru"	100	27	"Verduras, hortalicas e derivados"
+"Jurubeba, crua"	100	125	"Verduras, hortalicas e derivados"
+"Mandioca, cozida"	100	125	"Verduras, hortalicas e derivados"
+"Mandioca, crua"	100	151	"Verduras, hortalicas e derivados"
+"Mandioca, farofa, temperada"	100	405	"Verduras, hortalicas e derivados"
+"Mandioca, frita"	100	300	"Verduras, hortalicas e derivados"
+"Manjericao, cru"	100	21	"Verduras, hortalicas e derivados"
+"Maxixe, cru"	100	13	"Verduras, hortalicas e derivados"
+"Mostarda, folha, crua"	100	18	"Verduras, hortalicas e derivados"
+"Nhoque, batata, cozido"	100	180	"Verduras, hortalicas e derivados"
+"Nabo, cru"	100	18	"Verduras, hortalicas e derivados"
+"Palmito, Jussara, em conserva"	100	23	"Verduras, hortalicas e derivados"
+"Palmito, pupunha, em conserva"	100	29	"Verduras, hortalicas e derivados"
+"Pao, de queijo, assado"	100	363	"Verduras, hortalicas e derivados"
+"Pao, de queijo, cru"	100	294	"Verduras, hortalicas e derivados"
+"Pepino, cru"	100	9	"Verduras, hortalicas e derivados"
+"Pimentao, amarelo, cru"	100	27	"Verduras, hortalicas e derivados"
+"Pimentao, verde, cru"	100	21	"Verduras, hortalicas e derivados"
+"Pimentao, vermelho, cru"	100	23	"Verduras, hortalicas e derivados"
+"Polvilho, doce"	100	351	"Verduras, hortalicas e derivados"
+"Quiabo, cru"	100	29	"Verduras, hortalicas e derivados"
+"Rabanete, cru"	100	13	"Verduras, hortalicas e derivados"
+"Repolho, branco, cru"	100	17	"Verduras, hortalicas e derivados"
+"Repolho, roxo, cru"	100	30	"Verduras, hortalicas e derivados"
+"Repolho, roxo, refogado"	100	41	"Verduras, hortalicas e derivados"
+"Rucula, crua"	100	13	"Verduras, hortalicas e derivados"
+"Salsa, crua"	100	33	"Verduras, hortalicas e derivados"
+"Seleta de legumes, enlatada"	100	56	"Verduras, hortalicas e derivados"
+"Serralha, crua"	100	30	"Verduras, hortalicas e derivados"
+"Taioba, crua"	100	34	"Verduras, hortalicas e derivados"
+"Tomate, com semente, cru"	100	15	"Verduras, hortalicas e derivados"
+"Tomate, extrato"	100	60	"Verduras, hortalicas e derivados"
+"Tomate, molho industrializado"	100	38	"Verduras, hortalicas e derivados"
+"Tomate, puro"	100	27	"Verduras, hortalicas e derivados"
+"Tomate, salada"	100	20	"Verduras, hortalicas e derivados"
+"Vagem, crua"	100	24	"Verduras, hortalicas e derivados"
+"Abacate, cru"	100	96	Frutas e derivados
+"Abacaxi, cru"	100	48	Frutas e derivados
+"Abacaxi, polpa, congelada"	100	30	Frutas e derivados
+"Abiu, cru"	100	62	Frutas e derivados
+"Acai, polpa, com xarope de guarana e glucose"	100	110	Frutas e derivados
+"Acai, polpa, congelada"	100	58	Frutas e derivados
+"Acerola, crua"	100	33	Frutas e derivados
+"Acerola, polpa, congelada"	100	21	Frutas e derivados
+"Ameixa, calda, enlatada"	100	182	Frutas e derivados
+"Ameixa, crua"	100	52	Frutas e derivados
+"Ameixa, em calda, enlatada, drenada"	100	177	Frutas e derivados
+"Atemoia, crua"	100	96	Frutas e derivados
+"Banana, da terra, crua"	100	128	Frutas e derivados
+"Banana, doce em barra"	100	280	Frutas e derivados
+"Banana, figo, crua"	100	105	Frutas e derivados
+"Banana, maca, crua"	100	86	Frutas e derivados
+"Banana, nanica, crua"	100	91	Frutas e derivados
+"Banana, ouro, crua"	100	112	Frutas e derivados
+"Banana, pacova, crua"	100	77	Frutas e derivados
+"Banana, prata, crua"	100	98	Frutas e derivados
+"Cacau, cru"	100	74	Frutas e derivados
+"Caja-Manga, cru"	100	45	Frutas e derivados
+"Caja polpa, congelada"	100	26	Frutas e derivados
+"Caju, cru"	100	43	Frutas e derivados
+"Caju, polpa, congelada"	100	36	Frutas e derivados
+"Caju, suco concentrado, envasado"	100	45	Frutas e derivados
+"Caqui, chocolate, cru"	100	71	Frutas e derivados
+"Carambola, crua"	100	45	Frutas e derivados
+"Ciriguela, crua"	100	75	Frutas e derivados
+"Cupuacu, cru"	100	49	Frutas e derivados
+"Cupuacu, polpa, congelada"	100	48	Frutas e derivados
+"Figo, cru"	100	41	Frutas e derivados
+"Figo, enlatado, em calda"	100	184	Frutas e derivados
+"Fruta-Pao, crua"	100	67	Frutas e derivados
+"Goiaba, branca, com casca, crua"	100	51	Frutas e derivados
+"Goiaba, doce em pasta"	100	268	Frutas e derivados
+"Goiaba, doce, cascao"	100	285	Frutas e derivados
+"Goiaba, vermelha, com casca, crua"	100	54	Frutas e derivados
+"Graviola, crua"	100	61	Frutas e derivados
+"Graviola, polpa, congelada"	100	38	Frutas e derivados
+"Jabuticaba, crua"	100	58	Frutas e derivados
+"Jaca, crua"	100	87	Frutas e derivados
+"Jambo, cru"	100	26	Frutas e derivados
+"Jamelao, cru"	100	41	Frutas e derivados
+"Kiwi, cru"	100	51	Frutas e derivados
+"Laranja, bahia, crua"	100	45	Frutas e derivados
+"Laranja, bahia, suco"	100	36	Frutas e derivados
+"Laranja, da terra, crua"	100	51	Frutas e derivados
+"Laranja, da terra, suco"	100	40	Frutas e derivados
+"Laranja, lima, crua"	100	45	Frutas e derivados
+"Laranja, lima, suco"	100	39	Frutas e derivados
+"Laranja, pera, crua"	100	36	Frutas e derivados
+"Laranja, pera, suco"	100	32	Frutas e derivados
+"Laranja, valencia, crua"	100	46	Frutas e derivados
+"Laranja, valencia, suco"	100	36	Frutas e derivados
+"Limao, cravo, suco"	100	14	Frutas e derivados
+"Limao, galego, suco"	100	22	Frutas e derivados
+"Limao, tahiti, cru"	100	31	Frutas e derivados
+"Maca, Argentina, com casca, crua"	100	62	Frutas e derivados
+"Maca, Fuji, com casca, crua"	100	55	Frutas e derivados
+"Macadamia, crua"	100	404	Frutas e derivados
+"Mamao, doce em calda, drenado"	100	195	Frutas e derivados
+"Mamao, Formosa, cru"	100	45	Frutas e derivados
+"Mamao, Papaia, cru"	100	40	Frutas e derivados
+"Mamao verde, doce em calda, drenado"	100	209	Frutas e derivados
+"Manga, Haden, crua"	100	63	Frutas e derivados
+"Manga, Palmer, crua"	100	72	Frutas e derivados
+"Manga, polpa, congelada"	100	48	Frutas e derivados
+"Manga, Tommy Atkins, crua"	100	50	Frutas e derivados
+Maracuja cru	100	68	Frutas e derivados
+"Maracuja, polpa, congelada"	100	38	Frutas e derivados
+"Maracuja, suco concentrado, envasado"	100	41	Frutas e derivados
+"Melancia, crua"	100	32	Frutas e derivados
+"Melao, cru"	100	29	Frutas e derivados
+"Mexerica, Murcote, crua"	100	57	Frutas e derivados
+"Mexerica, Rio, crua"	100	36	Frutas e derivados
+"Morango, cru"	100	30	Frutas e derivados
+"Nespera, crua"	100	42	Frutas e derivados
+"Pequi, cru"	100	204	Frutas e derivados
+"Pera, Park, crua"	100	60	Frutas e derivados
+"Pera, Williams, crua"	100	53	Frutas e derivados
+"Pessego, Aurora, cru"	100	36	Frutas e derivados
+"Pessego, enlatado, em calda"	100	63	Frutas e derivados
+"Pinha, crua"	100	88	Frutas e derivados
+"Pitanga, crua"	100	41	Frutas e derivados
+"Pitanga, polpa, congelada"	100	19	Frutas e derivados
+"Roma, crua"	100	55	Frutas e derivados
+"Tamarindo, cru"	100	275	Frutas e derivados
+"Tangerina, Ponca, crua"	100	37	Frutas e derivados
+"Tangerina, Ponca, suco"	100	36	Frutas e derivados
+"Tucuma, cru"	100	262	Frutas e derivados
+"Umbu, cru"	100	37	Frutas e derivados
+"Umbu, polpa, congelada"	100	33	Frutas e derivados
+"Uva, Italia, crua"	100	52	Frutas e derivados
+"Uva, Rubi, crua"	100	49	Frutas e derivados
+"Uva, suco concentrado, envasado"	100	57	Frutas e derivados
+"Azeite, de dende"	100	884	Gorduras e Oleos
+"Azeite, de oliva, extra virgem"	100	884	Gorduras e Oleos
+"Manteiga, com sal"	100	725	Gorduras e Oleos
+"Manteiga, sem sal"	100	757	Gorduras e Oleos
+"Margarina, com Oleo hidrogenado, com sal (65% de lipideos)"	100	596	Gorduras e Oleos
+"Margarina, com Oleo hidrogenado, sem sal (80% de lipideos)"	100	722	Gorduras e Oleos
+"Margarina, com Oleo interesterificado, com sal (65%de lipideos)"	100	594	Gorduras e Oleos
+"Margarina, com Oleo interesterificado, sem sal (65% de lipideos)"	100	593	Gorduras e Oleos
+"Oleo, de babacu"	100	884	Gorduras e Oleos
+"Oleo, de canola"	100	884	Gorduras e Oleos
+"Oleo, de girassol"	100	884	Gorduras e Oleos
+"Oleo, de milho"	100	884	Gorduras e Oleos
+"Oleo, de pequi"	100	884	Gorduras e Oleos
+"Oleo, de soja"	100	884	Gorduras e Oleos
+"Abadejo, file, congelado, assado"	100	111	Pescados e frutos do mar
+"Abadejo, file, congelado,cozido"	100	91	Pescados e frutos do mar
+"Abadejo, file, congelado, cru"	100	59	Pescados e frutos do mar
+"Abadejo, file, congelado, grelhado"	100	129	Pescados e frutos do mar
+"Atum, conserva em oleo"	100	165	Pescados e frutos do mar
+"Atum, fresco, cru"	100	117	Pescados e frutos do mar
+"Bacalhau, salgado, cru"	100	135	Pescados e frutos do mar
+"Bacalhau, salgado, refogado"	100	139	Pescados e frutos do mar
+"Cacao, posta, com farinha de trigo, frita"	100	208	Pescados e frutos do mar
+"Cacao, posta, cozida"	100	116	Pescados e frutos do mar
+"Cacao, posta, crua"	100	83	Pescados e frutos do mar
+"Camarao, Rio Grande, grande, cozido"	100	90	Pescados e frutos do mar
+"Camarao, Rio Grande, grande, cru"	100	47	Pescados e frutos do mar
+"Camarao, Sete Barbas, sem cabeca, com casca, frito"	100	231	Pescados e frutos do mar
+"Caranguejo, cozido"	100	82	Pescados e frutos do mar
+"Corimba, cru"	100	128	Pescados e frutos do mar
+"Corimbata?, assado"	100	261	Pescados e frutos do mar
+"Corimbata, cozido"	100	238	Pescados e frutos do mar
+"Corvina de agua doce, crua"	100	101	Pescados e frutos do mar
+"Corvina do mar, crua"	100	94	Pescados e frutos do mar
+"Corvina grande, assada"	100	146	Pescados e frutos do mar
+"Corvina grande, cozida"	100	100	Pescados e frutos do mar
+"Dourada de ??gua doce, fresca"	100	131	Pescados e frutos do mar
+"Lambari, congelado, cru"	100	130	Pescados e frutos do mar
+"Lambari, congelado, frito"	100	326	Pescados e frutos do mar
+"Lambari, fresco,cru"	100	151	Pescados e frutos do mar
+"Manjuba, com farinha de trigo, frita"	100	343	Pescados e frutos do mar
+"Manjuba, frita"	100	349	Pescados e frutos do mar
+"Merluza, file, assado"	100	121	Pescados e frutos do mar
+"Merluza, file, cru"	100	89	Pescados e frutos do mar
+"Merluza, file, frito"	100	191	Pescados e frutos do mar
+"Pescada, branca, crua"	100	110	Pescados e frutos do mar
+"Pescada, branca, frita"	100	223	Pescados e frutos do mar
+"Pescada, file, com farinha de trigo, frito"	100	283	Pescados e frutos do mar
+"Pescada, file, cru"	100	107	Pescados e frutos do mar
+"Pescada, file, frito"	100	154	Pescados e frutos do mar
+"Pescada, file, molho escabeche"	100	141	Pescados e frutos do mar
+"Pescadinha, crua"	100	76	Pescados e frutos do mar
+"Pintado, assado"	100	191	Pescados e frutos do mar
+"Pintado, cru"	100	91	Pescados e frutos do mar
+"Pintado, grelhado"	100	152	Pescados e frutos do mar
+"Porquinho, cru"	100	93	Pescados e frutos do mar
+"Salmao, file, com pele, fresco,  grelhado"	100	228	Pescados e frutos do mar
+"Salmao, sem pele, fresco, cru"	100	169	Pescados e frutos do mar
+"Salmao, sem pele, fresco, grelhado"	100	242	Pescados e frutos do mar
+"Sardinha, assada"	100	164	Pescados e frutos do mar
+"Sardinha, conserva em Oleo"	100	284	Pescados e frutos do mar
+"Sardinha, frita"	100	257	Pescados e frutos do mar
+"Sardinha, inteira, crua"	100	113	Pescados e frutos do mar
+"Tucunare, file, congelado, cru"	100	87	Pescados e frutos do mar
+Apresuntado	100	128	Carnes e derivados
+"Caldo de carne, tablete"	100	240	Carnes e derivados
+"Caldo de galinha, tablete"	100	251	Carnes e derivados
+"Carne, bovina, acem, moido, cozido"	100	212	Carnes e derivados
+"Carne, bovina, acem, moi?do, cru"	100	136	Carnes e derivados
+"Carne, bovina, acem, sem gordura, cozido"	100	214	Carnes e derivados
+"Carne, bovina, acem, sem gordura, cru"	100	144	Carnes e derivados
+"Carne, bovina, almondegas, cruas"	100	189	Carnes e derivados
+"Carne, bovina, almondegas, fritas"	100	271	Carnes e derivados
+"Carne, bovina, bucho, cozido"	100	133	Carnes e derivados
+"Carne, bovina, bucho, cru"	100	137	Carnes e derivados
+"Carne, bovina, capa de contra-file, com gordura, crua"	100	216	Carnes e derivados
+"Carne, bovina, capa de contra-file, com gordura, grelhada"	100	311	Carnes e derivados
+"Carne, bovina, capa de contra-file, sem gordura, crua"	100	131	Carnes e derivados
+"Carne, bovina, capa de contra-file, sem gordura, grelhada"	100	239	Carnes e derivados
+"Carne, bovina, charque, cozido"	100	262	Carnes e derivados
+"Carne, bovina, charque, cru"	100	248	Carnes e derivados
+"Carne, bovina, contra-file, a milanesa"	100	351	Carnes e derivados
+"Carne, bovina, contra-file de costela, cru"	100	202	Carnes e derivados
+"Carne, bovina, contra-file de costela, grelhado"	100	274	Carnes e derivados
+"Carne, bovina, contra-file, com gordura, cru"	100	205	Carnes e derivados
+"Carne, bovina, contra-file, com gordura, grelhado"	100	278	Carnes e derivados
+"Carne, bovina, contra-file, sem gordura, cru"	100	156	Carnes e derivados
+"Carne, bovina, contra-file, sem gordura, grelhado"	100	193	Carnes e derivados
+"Carne, bovina, costela, assada"	100	373	Carnes e derivados
+"Carne, bovina, costela, crua"	100	357	Carnes e derivados
+"Carne, bovina, coxao duro, sem gordura, cozido"	100	216	Carnes e derivados
+"Carne, bovina, coxao duro, sem gordura, cru"	100	147	Carnes e derivados
+"Carne, bovina, coxao mole, sem gordura, cozido"	100	218	Carnes e derivados
+"Carne, bovina, coxao mole, sem gordura, cru"	100	169	Carnes e derivados
+"Carne, bovina, cupim, assado"	100	330	Carnes e derivados
+"Carne, bovina, cupim, cru"	100	221	Carnes e derivados
+"Carne, bovina, figado, cru"	100	141	Carnes e derivados
+"Carne, bovina, fi?gado, grelhado"	100	225	Carnes e derivados
+"Carne, bovina, file mingnon, sem gordura, cru"	100	142	Carnes e derivados
+"Carne, bovina, file mingnon, sem gordura, grelhado"	100	219	Carnes e derivados
+"Carne, bovina, flanco, sem gordura, cozido"	100	195	Carnes e derivados
+"Carne, bovina, flanco, sem gordura, cru"	100	141	Carnes e derivados
+"Carne, bovina, fraldinha, com gordura, cozida"	100	338	Carnes e derivados
+"Carne, bovina, fraldinha, com gordura, crua"	100	220	Carnes e derivados
+"Carne, bovina, lagarto, cozido"	100	222	Carnes e derivados
+"Carne, bovina, lagarto, cru"	100	134	Carnes e derivados
+"Carne, bovina, lingua, cozida"	100	314	Carnes e derivados
+"Carne, bovina, lingua, crua"	100	215	Carnes e derivados
+"Carne, bovina, maminha, crua"	100	152	Carnes e derivados
+"Carne, bovina, maminha, grelhada"	100	153	Carnes e derivados
+"Carne, bovina, miolo de alcatra, sem gordura, cru"	100	162	Carnes e derivados
+"Carne, bovina, miolo de alcatra, sem gordura, grelhado"	100	241	Carnes e derivados
+"Carne, bovina, musculo, sem gordura, cozido"	100	193	Carnes e derivados
+"Carne, bovina, musculo, sem gordura, cru"	100	141	Carnes e derivados
+"Carne, bovina, paleta, com gordura, crua"	100	158	Carnes e derivados
+"Carne, bovina, paleta, sem gordura, cozida"	100	193	Carnes e derivados
+"Carne, bovina, paleta, sem gordura, crua"	100	140	Carnes e derivados
+"Carne, bovina, patinho, sem gordura, cru"	100	133	Carnes e derivados
+"Carne, bovina, patinho, sem gordura, grelhado"	100	219	Carnes e derivados
+"Carne, bovina, peito, sem gordura, cozido"	100	338	Carnes e derivados
+"Carne, bovina, peito, sem gordura, cru"	100	259	Carnes e derivados
+"Carne, bovina, picanha, com gordura, crua"	100	212	Carnes e derivados
+"Carne, bovina, picanha, com gordura, grelhada"	100	288	Carnes e derivados
+"Carne, bovina, picanha, sem gordura, crua"	100	133	Carnes e derivados
+"Carne, bovina, picanha, sem gordura, grelhada"	100	238	Carnes e derivados
+"Carne, bovina, seca, cozida"	100	312	Carnes e derivados
+"Carne, bovina, seca, crua"	100	312	Carnes e derivados
+"Coxinha de frango, frita"	100	283	Carnes e derivados
+"Croquete, de carne, cru"	100	245	Carnes e derivados
+"Croquete, de carne, frito"	100	346	Carnes e derivados
+"Empada de frango, pre-cozida, assada"	100	358	Carnes e derivados
+"Empada, de frango, pre-cozida"	100	377	Carnes e derivados
+"Frango, asa, com pele, crua"	100	213	Carnes e derivados
+"Frango, caipira, inteiro, com pele, cozido"	100	242	Carnes e derivados
+"Frango, caipira, inteiro, sem pele, cozido"	100	195	Carnes e derivados
+"Frango, coracao, cru"	100	221	Carnes e derivados
+"Frango, coracao, grelhado"	100	207	Carnes e derivados
+"Frango, coxa, com pele, assada"	100	215	Carnes e derivados
+"Frango, coxa, com pele, crua"	100	161	Carnes e derivados
+"Frango, coxa, sem pele, cozida"	100	167	Carnes e derivados
+"Frango, coxa, sem pele, crua"	100	119	Carnes e derivados
+"Frango, figado, cru"	100	106	Carnes e derivados
+"Frango, file, a milanesa"	100	220	Carnes e derivados
+"Frango, inteiro, com pele, cru"	100	226	Carnes e derivados
+"Frango, inteiro, sem pele, assado"	100	187	Carnes e derivados
+"Frango, inteiro, sem pele, cozido"	100	170	Carnes e derivados
+"Frango, inteiro, sem pele, cru"	100	129	Carnes e derivados
+"Frango, peito, com pele, assado"	100	211	Carnes e derivados
+"Frango, peito, com pele, cru"	100	149	Carnes e derivados
+"Frango, peito, sem pele, cozido"	100	162	Carnes e derivados
+"Frango, peito, sem pele, cru"	100	119	Carnes e derivados
+"Frango, peito, sem pele, grelhado"	100	159	Carnes e derivados
+"Frango, sobrecoxa, com pele, assada"	100	259	Carnes e derivados
+"Frango, sobrecoxa, com pele, crua"	100	254	Carnes e derivados
+"Frango, sobrecoxa, sem pele, assada"	100	232	Carnes e derivados
+"Frango, sobrecoxa, sem pele, crua"	100	161	Carnes e derivados
+"Hamburguer, bovino, cru"	100	214	Carnes e derivados
+"Hamburguer, bovino, frito"	100	258	Carnes e derivados
+"Hamburguer, bovino, grelhado"	100	209	Carnes e derivados
+"Linguica, frango, crua"	100	218	Carnes e derivados
+"Linguica, frango, frita"	100	245	Carnes e derivados
+"Linguica, frango, grelhada"	100	243	Carnes e derivados
+"Linguica, porco, crua"	100	227	Carnes e derivados
+"Linguica, porco, frita"	100	279	Carnes e derivados
+"Linguica, porco, grelhada"	100	296	Carnes e derivados
+Mortadela	100	268	Carnes e derivados
+"Peru, congelado, assado"	100	163	Carnes e derivados
+"Peru, congelado, cru"	100	93	Carnes e derivados
+"Porco, bisteca, crua"	100	164	Carnes e derivados
+"Porco, bisteca, frita"	100	311	Carnes e derivados
+"Porco, bisteca, grelhada"	100	280	Carnes e derivados
+"Porco, costela, assada"	100	402	Carnes e derivados
+"Porco, costela, crua"	100	255	Carnes e derivados
+"Porco, lombo, assado"	100	210	Carnes e derivados
+"Porco, lombo, cru"	100	175	Carnes e derivados
+"Porco, orelha, salgada, crua"	100	258	Carnes e derivados
+"Porco, pernil, assado"	100	262	Carnes e derivados
+"Porco, pernil, cru"	100	186	Carnes e derivados
+"Porco, rabo, salgado, cru"	100	377	Carnes e derivados
+"Presunto, com capa de gordura"	100	127	Carnes e derivados
+"Presunto, sem capa de gordura"	100	93	Carnes e derivados
+"Quibe, assado"	100	136	Carnes e derivados
+"Quibe, cru"	100	109	Carnes e derivados
+"Quibe, frito"	100	253	Carnes e derivados
+Salame	100	397	Carnes e derivados
+"Toucinho, cru"	100	592	Carnes e derivados
+"Toucinho, frito"	100	696	Carnes e derivados
+"Bebida lactea, pessego"	100	55	Leite e derivados
+Creme de Leite	100	221	Leite e derivados
+"Iogurte, natural"	100	51	Leite e derivados
+"Iogurte, natural, desnatado"	100	41	Leite e derivados
+"Iogurte, sabor abacaxi"	100	0	Leite e derivados
+"Iogurte, sabor morango"	100	69	Leite e derivados
+"Iogurte, sabor pessego"	100	67	Leite e derivados
+"Leite, condensado"	100	312	Leite e derivados
+"Leite, de cabra"	100	66	Leite e derivados
+"Leite, de vaca, achocolatado"	100	82	Leite e derivados
+"Leite, de vaca, desnatado, po"	100	361	Leite e derivados
+"Leite, de vaca, desnatado, UHT"	100	0	Leite e derivados
+"Leite, de vaca, integral"	100	0	Leite e derivados
+"Leite, de vaca, integral, po"	100	496	Leite e derivados
+"Leite, fermentado"	100	69	Leite e derivados
+"Queijo, minas, frescal"	100	264	Leite e derivados
+"Queijo, minas, meia cura"	100	320	Leite e derivados
+"Queijo, mozarela"	100	329	Leite e derivados
+"Queijo, parmesao"	100	452	Leite e derivados
+"Queijo, pasteurizado"	100	303	Leite e derivados
+"Queijo, petit suisse, morango"	100	121	Leite e derivados
+"Queijo, prato"	100	359	Leite e derivados
+Maria mole	100	256	Leite e derivados
+"Queijo, ricota"	100	139	Leite e derivados
+"Bebida isotonica, sabores variados"	100	25	Bebidas (alcoolicas e nao alcoolicas)
+"Cafe, infusao 10%"	100	9	Bebidas (alcoolicas e nao alcoolicas)
+"Cana, aguardente 1"	100	215	Bebidas (alcoolicas e nao alcoolicas)
+"Cana, caldo de"	100	65	Bebidas (alcoolicas e nao alcoolicas)
+"Cerveja, pilsen 2"	100	40	Bebidas (alcoolicas e nao alcoolicas)
+"Cha, erva-doce, infusao 5%"	100	1	Bebidas (alcoolicas e nao alcoolicas)
+"Cha, mate, infusao 5%"	100	2	Bebidas (alcoolicas e nao alcoolicas)
+"Cha, preto, infusao 5%"	100	2	Bebidas (alcoolicas e nao alcoolicas)
+"Coco, Agua de"	100	21	Bebidas (alcoolicas e nao alcoolicas)
+"Refrigerante, tipo Agua tonica"	100	30	Bebidas (alcoolicas e nao alcoolicas)
+"Refrigerante, tipo cola"	100	33	Bebidas (alcoolicas e nao alcoolicas)
+"Refrigerante, tipo guarana"	100	38	Bebidas (alcoolicas e nao alcoolicas)
+"Refrigerante, tipo laranja"	100	45	Bebidas (alcoolicas e nao alcoolicas)
+"Refrigerante, tipo limao"	100	39	Bebidas (alcoolicas e nao alcoolicas)
+"Omelete, de queijo"	100	268	Ovos e derivados
+"Ovo, de codorna, inteiro, cru"	100	176	Ovos e derivados
+"Ovo, de galinha, clara, cozida/10minutos"	100	59	Ovos e derivados
+"Ovo, de galinha, gema, cozida/10minutos"	100	352	Ovos e derivados
+"Ovo, de galinha, inteiro, cozido/10minutos"	100	145	Ovos e derivados
+"Ovo, de galinha, inteiro, cru"	100	143	Ovos e derivados
+"Ovo, de galinha, inteiro, frito"	100	240	Ovos e derivados
+"Achocolatado, po"	100	401	Produtos acucarados
+"Acucar, cristal"	100	386	Produtos acucarados
+"Acucar, mascavo"	100	368	Produtos acucarados
+"Acucar, refinado"	100	386	Produtos acucarados
+"Chocolate, ao leite"	100	539	Produtos acucarados
+"Chocolate, ao leite, com castanha do Para"	100	558	Produtos acucarados
+"Chocolate, ao leite, dietetico"	100	556	Produtos acucarados
+"Chocolate, meio amargo"	100	474	Produtos acucarados
+Cocada branca	100	448	Produtos acucarados
+"Doce, de Abobora, cremoso"	100	198	Produtos acucarados
+"Doce, de leite, cremoso"	100	306	Produtos acucarados
+"Geleia, mocoto, natural"	100	106	Produtos acucarados
+Glicose de milho	100	292	Produtos acucarados
+Maria mole	100	301	Produtos acucarados
+"Maria mole, coco queimado"	100	306	Produtos acucarados
+Marmelada	100	257	Produtos acucarados
+"Mel, de abelha"	100	309	Produtos acucarados
+Melado	100	296	Produtos acucarados
+Quindim	100	411	Produtos acucarados
+Rapadura	100	351	Produtos acucarados
+"Cafe, po, torrado"	100	418	Miscelaneas
+"Capuccino, po"	100	417	Miscelaneas
+"Fermento em po, quimico"	100	89	Miscelaneas
+"Fermento, biologico, levedura, tablete"	100	89	Miscelaneas
+"Gelatina, sabores variados, po"	100	380	Miscelaneas
+"Sal, dietetico"	100	0	Miscelaneas
+"Sal, grosso"	100	0	Miscelaneas
+Shoyu	100	60	Miscelaneas
+Tempero a base de sal	100	21	Miscelaneas
+"Azeitona, preta, conserva"	100	194	Outros alimentos industrializados
+"Azeitona, verde, conserva"	100	136	Outros alimentos industrializados
+"Chantilly, spray, com gordura vegetal"	100	314	Outros alimentos industrializados
+"Leite, de coco"	100	166	Outros alimentos industrializados
+"Maionese, tradicional com ovos"	100	302	Outros alimentos industrializados
+Acaraje	100	289	Alimentos preparados
+Arroz carreteiro	100	153	Alimentos preparados
+"Baiao de dois, arroz e feijao-de-corda"	100	135	Alimentos preparados
+Barreado	100	164	Alimentos preparados
+"Bife a cavalo, com contra file"	100	291	Alimentos preparados
+Bolinho de arroz	100	273	Alimentos preparados
+Camarao a baiana	100	100	Alimentos preparados
+"Charuto, de repolho"	100	78	Alimentos preparados
+"Cuscuz, de milho, cozido com sal"	100	113	Alimentos preparados
+"Cuscuz, paulista"	100	142	Alimentos preparados
+Dobradinha	100	124	Alimentos preparados
+Estrogonofe de carne	100	173	Alimentos preparados
+Estrogonofe de frango	100	156	Alimentos preparados
+Feijao tropeiro mineiro	100	151	Alimentos preparados
+Feijoada	100	116	Alimentos preparados
+"Frango, com assado"	100	112	Alimentos preparados
+"Macarrao, molho bolonhesa"	100	119	Alimentos preparados
+Manicoba	100	134	Alimentos preparados
+Quibebe	100	86	Alimentos preparados
+"Salada, de legumes, com maionese"	100	96	Alimentos preparados
+"Salada, de legumes, cozida no vapor"	100	35	Alimentos preparados
+"Salpicao, de frango"	100	147	Alimentos preparados
+Sarapatel	100	122	Alimentos preparados
+Tabule	100	57	Alimentos preparados
+Tacaca	100	46	Alimentos preparados
+"Tapioca, com manteiga"	100	347	Alimentos preparados
+"Tucupi, com pimenta-de-cheiro"	100	27	Alimentos preparados
+Vaca atolada	100	144	Alimentos preparados
+Vatapa	100	254	Alimentos preparados
+Virado a paulista	100	306	Alimentos preparados
+Yakisoba	100	112	Alimentos preparados
+"Amendoim, grao, cru"	100	544	Leguminosas e derivados
+"Amendoim, torrado, salgado"	100	605	Leguminosas e derivados
+"Ervilha, em vagem"	100	88	Leguminosas e derivados
+"Ervilha, enlatada, drenada"	100	73	Leguminosas e derivados
+"Feijao, carioca, cozido"	100	76	Leguminosas e derivados
+"Feijao, carioca, cru"	100	329	Leguminosas e derivados
+"Feijao, fradinho, cozido"	100	78	Leguminosas e derivados
+"Feijao, fradinho, cru"	100	339	Leguminosas e derivados
+"Feijao, jalo, cozido"	100	92	Leguminosas e derivados
+"Feijao, jalo, cru"	100	327	Leguminosas e derivados
+"Feijao, preto, cozido"	100	77	Leguminosas e derivados
+"Feijao, preto, cru"	100	323	Leguminosas e derivados
+"Feijao, rajado, cozido"	100	84	Leguminosas e derivados
+"Feijao, rajado, cru"	100	325	Leguminosas e derivados
+"Feijao, rosinha, cozido"	100	67	Leguminosas e derivados
+"Feijao, rosinha, cru"	100	336	Leguminosas e derivados
+"Feijao, roxo, cozido"	100	76	Leguminosas e derivados
+"Feijao, roxo, cru"	100	331	Leguminosas e derivados
+"Grao-de-bico, cru"	100	354	Leguminosas e derivados
+"Guandu, cru"	100	344	Leguminosas e derivados
+"Lentilha, cozida"	100	92	Leguminosas e derivados
+"Lentilha, crua"	100	339	Leguminosas e derivados
+"Pacoca, amendoim"	100	486	Leguminosas e derivados
+"Pe-de-moleque, amendoim"	100	503	Leguminosas e derivados
+"Soja, farinha"	100	403	Leguminosas e derivados
+"Soja, extrato soluvel, natural, fluido"	100	39	Leguminosas e derivados
+"Soja, extrato soluvel, po"	100	458	Leguminosas e derivados
+"Soja, queijo (tofu)"	100	64	Leguminosas e derivados
+"Tremoco, cru"	100	381	Leguminosas e derivados
+"Tremoco, em conserva"	100	120	Leguminosas e derivados
+"Amendoa, torrada, salgada"	100	580	Nozes e sementes
+"Castanha-de-caju, torrada, salgada"	100	570	Nozes e sementes
+"Castanha-do-Brasil, crua"	100	642	Nozes e sementes
+"Coco, cru"	100	406	Nozes e sementes
+"Coco, verde, cru"	100	0	Nozes e sementes
+"Farinha, de mesocarpo de babacu, crua"	100	328	Nozes e sementes
+"Gergelim, semente"	100	583	Nozes e sementes
+"Linhaca, semente"	100	495	Nozes e sementes
+"Pinhao, cozido"	100	174	Nozes e sementes
+"Pupunha, cozida"	100	218	Nozes e sementes
+"Noz, crua"	100	620	Nozes e sementes
